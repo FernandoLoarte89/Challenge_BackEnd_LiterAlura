@@ -190,6 +190,7 @@ public void buscarLibroPorTitulo() {
     }
 ```
 
+![badge literalura](https://github.com/FernandoLoarte89/Challenge_BackEnd_LiterAlura/assets/157989840/c1c0b859-54df-46aa-be99-f3b35e283fd4)
 
 ###Final
 =============================================
